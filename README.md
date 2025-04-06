@@ -73,4 +73,4 @@ This document describes the pin connections between the ESP32-C6-WROOM-1 module 
 
 # Circuit Block Diagram
 
-![Circuit Block Diagram](schemabloc.drawio.png)
+![Circuit Block Diagram](SchemaBloc.drawio.png)
